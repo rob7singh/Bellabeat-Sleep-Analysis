@@ -5,42 +5,40 @@ This project analyzes Fitbit fitness tracker data to explore the relationship be
 The goal is to understand how physical activity and lifestyle factors (e.g., calories burned, intensity of activity) relate to sleep quality, and how Bellabeat can use these insights to improve its marketing strategy for health-conscious consumers.
 
 **🛠️ Tools and Technologies**
-R (dplyr, ggplot2, tidyr, lubridate)
+-R (dplyr, ggplot2, tidyr, lubridate)
 
-Kaggle (data exploration platform)
+-Kaggle (data exploration platform)
 
-GitHub (version control and project portfolio)
-
-Excel (initial data cleaning)
+-GitHub (version control and project portfolio)
 
 **📈 Key Findings**
-Higher calories burned during the day are associated with better sleep quality.
+-Higher calories burned during the day are associated with better sleep quality.
 
-Increased intensity of activity (measured through intense minutes) correlates positively with better sleep duration and quality.
+-Increased intensity of activity (measured through intense minutes) correlates positively with better sleep duration and quality.
 
-Individuals with more sedentary behavior during the day tend to have poorer sleep patterns.
+-Individuals with more sedentary behavior during the day tend to have poorer sleep patterns.
 
 **🧠 Recommendations for Bellabeat**
-Promote fitness activities through the Bellabeat app to encourage better sleep habits.
+-Promote fitness activities through the Bellabeat app to encourage better sleep habits.
 
-Develop marketing content emphasizing the link between physical activity and improved sleep quality.
+-Develop marketing content emphasizing the link between physical activity and improved sleep quality.
 
-Target health-focused users by showcasing personalized activity recommendations tied to sleep improvements.
+-Target health-focused users by showcasing personalized activity recommendations tied to sleep improvements.
 
 **📂 Project Structure**
-Bellabeat-Sleep-Analysis.ipynb: Kaggle notebook containing data cleaning, analysis, and visualizations.
+-Bellabeat-Sleep-Analysis.ipynb: Kaggle notebook containing data cleaning, analysis, and visualizations.
 
-fitbit_data.csv: Dataset used for analysis (anonymized).
+-fitbit_data.csv: Dataset used for analysis (anonymized).
 
-README.md: Project documentation.
+-README.md: Project documentation.
 
 **🚀 Skills Demonstrated**
-Data cleaning and wrangling
+-Data cleaning and wrangling
 
-Exploratory data analysis (EDA)
+-Exploratory data analysis (EDA)
 
-Data visualization with ggplot2
+-Data visualization with ggplot2
 
-Correlation analysis and basic statistical interpretation
+-Correlation analysis and basic statistical interpretation
 
-Storytelling with data to support business decisions
+-Storytelling with data to support business decisions
